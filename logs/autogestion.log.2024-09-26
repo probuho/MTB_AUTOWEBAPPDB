@@ -1,0 +1,976 @@
+2024-09-26 09:50:59,332|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 09:50:59,408|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 09:50:59,535|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:127|||||||
+2024-09-26 09:50:59,536|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 09:50:59,594|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:58|||||||
+2024-09-26 09:51:00,103|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|771|||||||
+2024-09-26 09:51:00,235|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|903|||||||
+2024-09-26 09:51:00,441|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|1109|||||||
+2024-09-26 09:51:03,600|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|4268|||||||
+2024-09-26 10:24:12,803|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:24:12,827|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 10:24:12,892|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:65|||||||
+2024-09-26 10:24:12,893|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 10:24:12,915|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:22|||||||
+2024-09-26 10:24:13,111|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|308|||||||
+2024-09-26 10:24:13,207|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|404|||||||
+2024-09-26 10:24:13,424|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|620|||||||
+2024-09-26 10:24:16,712|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|3909|||||||
+2024-09-26 10:24:16,912|INFO|||ScheduledDataUpdater.updateData getCities|4109|||||||
+2024-09-26 10:24:17,264|INFO|||WebSecurityConfig.configure ve.com.movilnet.api.auth.security.jwt.services.UserDetailsServiceImpl@59c3914c|||||||
+2024-09-26 10:24:17,458|INFO||| CorsConfiguration. configure  cors PROD|||||||
+2024-09-26 10:24:25,790|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994213849,autog|||||||
+2024-09-26 10:24:25,796|INFO|||1727403865779|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994213849  p_app autog|||||||
+2024-09-26 10:24:26,832|INFO||||AGL-201.238.33.49-1994213849-1727403866831|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6d0dd576}|null|1727403866831|ex|||||||
+2024-09-26 10:24:26,842|INFO|||1727403866831|procesarTransaccionBuscarTelefono : 1994213849-AGL-201.238.33.49-1994213849-1727403866831|||||||
+2024-09-26 10:24:26,856|INFO|||A-1727403866831-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264213849|||||||
+2024-09-26 10:24:31,880|INFO|||A-1727403866831-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@7a6520c0|||||||
+2024-09-26 10:24:31,886|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:24:31,897|INFO|||1727403866831-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264213849|||||||
+2024-09-26 10:24:31,900|INFO|||1727403866831-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:24:31,902|INFO|||1727403866831-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264213849|||||||
+2024-09-26 10:24:31,905|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.33.49-1994213849-1727403866831|||||||
+2024-09-26 10:24:31,912|INFO|||AGL-201.238.33.49-1994213849-1727403866831-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:24:32,490|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.33.49-1994213849-1727403866831Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@376f967a|||||||
+2024-09-26 10:24:32,498|INFO|||AGL-201.238.33.49-1994213849-1727403866831|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|5667|||||||
+2024-09-26 10:30:30,586|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:30:30,609|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 10:30:30,666|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:57|||||||
+2024-09-26 10:30:30,667|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 10:30:30,689|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:22|||||||
+2024-09-26 10:30:30,875|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|289|||||||
+2024-09-26 10:30:30,955|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|369|||||||
+2024-09-26 10:30:31,142|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|556|||||||
+2024-09-26 10:30:34,482|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|3896|||||||
+2024-09-26 10:30:34,685|INFO|||ScheduledDataUpdater.updateData getCities|4098|||||||
+2024-09-26 10:30:34,988|INFO|||WebSecurityConfig.configure ve.com.movilnet.api.auth.security.jwt.services.UserDetailsServiceImpl@6a873a00|||||||
+2024-09-26 10:30:35,178|INFO||| CorsConfiguration. configure  cors PROD|||||||
+2024-09-26 10:30:43,159|INFO|||1727404242511|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:30:43,293|INFO|||1727404242514|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:31:17,674|INFO|||UserDetailsServiceImpl.loadUserByUsername 1587838435,autog|||||||
+2024-09-26 10:31:17,675|INFO|||1727404277667|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1587838435  p_app autog|||||||
+2024-09-26 10:31:18,407|INFO||||AGL-10.178.243.51-1587838435-1727404278407|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@15e8c4e4}|null|1727404278407|ex|||||||
+2024-09-26 10:31:18,415|INFO|||1727404278407|procesarTransaccionBuscarTelefono : 1587838435-AGL-10.178.243.51-1587838435-1727404278407|||||||
+2024-09-26 10:31:18,421|INFO|||A-1727404278407-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4167838435|||||||
+2024-09-26 10:31:22,720|INFO|||A-1727404278407-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@2f1904f9|||||||
+2024-09-26 10:31:22,721|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:31:22,731|INFO|||1727404278407-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4167838435|||||||
+2024-09-26 10:31:22,734|INFO|||1727404278407-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:31:22,735|INFO|||1727404278407-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4167838435|||||||
+2024-09-26 10:31:22,742|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.178.243.51-1587838435-1727404278407|||||||
+2024-09-26 10:31:22,744|INFO|||AGL-10.178.243.51-1587838435-1727404278407-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:31:23,614|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.178.243.51-1587838435-1727404278407Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@2cddd79c|||||||
+2024-09-26 10:31:23,619|INFO|||AGL-10.178.243.51-1587838435-1727404278407|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|5212|||||||
+2024-09-26 10:34:05,621|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:34:05,646|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 10:34:05,695|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:49|||||||
+2024-09-26 10:34:05,696|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 10:34:05,718|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:22|||||||
+2024-09-26 10:34:05,882|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|261|||||||
+2024-09-26 10:34:05,957|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|336|||||||
+2024-09-26 10:34:06,141|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|520|||||||
+2024-09-26 10:34:09,476|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|3855|||||||
+2024-09-26 10:34:09,677|INFO|||ScheduledDataUpdater.updateData getCities|4055|||||||
+2024-09-26 10:34:09,950|INFO|||WebSecurityConfig.configure ve.com.movilnet.api.auth.security.jwt.services.UserDetailsServiceImpl@b3c0135|||||||
+2024-09-26 10:34:10,103|INFO||| CorsConfiguration. configure  cors PROD|||||||
+2024-09-26 10:34:16,884|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582007985,autog|||||||
+2024-09-26 10:34:16,892|INFO|||1727404456883|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582007985  p_app autog|||||||
+2024-09-26 10:34:17,171|INFO|||1727404456352|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:34:17,257|INFO|||1727404456353|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:34:18,074|INFO||||AGL-201.238.32.50-1582007985-1727404458074|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@77955a30}|null|1727404458074|ex|||||||
+2024-09-26 10:34:18,075|INFO|||1727404458074|procesarTransaccionBuscarTelefono : 1582007985-AGL-201.238.32.50-1582007985-1727404458074|||||||
+2024-09-26 10:34:18,079|INFO|||A-1727404458074-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4162007985|||||||
+2024-09-26 10:34:21,850|INFO|||A-1727404458074-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@7a0e3f5c|||||||
+2024-09-26 10:34:21,851|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:34:21,859|INFO|||1727404458074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4162007985|||||||
+2024-09-26 10:34:21,859|INFO|||1727404458074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:34:21,860|INFO|||1727404458074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4162007985|||||||
+2024-09-26 10:34:21,866|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.50-1582007985-1727404458074|||||||
+2024-09-26 10:34:21,867|INFO|||AGL-201.238.32.50-1582007985-1727404458074-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:34:22,395|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.50-1582007985-1727404458074Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@4deb5285|||||||
+2024-09-26 10:34:22,419|INFO|||AGL-201.238.32.50-1582007985-1727404458074|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|4345|||||||
+2024-09-26 10:36:20,132|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:36:20,170|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 10:36:20,234|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:63|||||||
+2024-09-26 10:36:20,234|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 10:36:20,261|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:27|||||||
+2024-09-26 10:36:20,463|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|331|||||||
+2024-09-26 10:36:20,548|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|415|||||||
+2024-09-26 10:36:20,727|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|595|||||||
+2024-09-26 10:36:24,076|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|3943|||||||
+2024-09-26 10:36:24,283|INFO|||ScheduledDataUpdater.updateData getCities|4151|||||||
+2024-09-26 10:36:24,610|INFO|||WebSecurityConfig.configure ve.com.movilnet.api.auth.security.jwt.services.UserDetailsServiceImpl@36463014|||||||
+2024-09-26 10:36:24,809|INFO||| CorsConfiguration. configure  cors PROD|||||||
+2024-09-26 10:36:33,209|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993684365,autog|||||||
+2024-09-26 10:36:33,209|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582885524,autog|||||||
+2024-09-26 10:36:33,213|INFO|||1727404593202|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993684365  p_app autog|||||||
+2024-09-26 10:36:33,213|INFO|||1727404593202|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582885524  p_app autog|||||||
+2024-09-26 10:36:33,208|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582885524,autog|||||||
+2024-09-26 10:36:33,229|INFO|||1727404593201|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582885524  p_app autog|||||||
+2024-09-26 10:36:33,229|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993684365,autog|||||||
+2024-09-26 10:36:33,230|INFO|||1727404593198|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993684365  p_app autog|||||||
+2024-09-26 10:36:35,278|INFO||||AGL-186.14.3.29-1582885524-1727404595278|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@3eae29}|null|1727404595278|ex|||||||
+2024-09-26 10:36:35,277|INFO||||AGL-38.166.207.125-1993684365-1727404595277|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@48b0da89}|null|1727404595277|ex|||||||
+2024-09-26 10:36:35,280|INFO|||1727404595277|procesarTransaccionBuscarTelefono : 1993684365-AGL-38.166.207.125-1993684365-1727404595277|||||||
+2024-09-26 10:36:35,279|INFO|||1727404595278|procesarTransaccionBuscarTelefono : 1582885524-AGL-186.14.3.29-1582885524-1727404595278|||||||
+2024-09-26 10:36:35,292|INFO|||A-1727404595277-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4263684365|||||||
+2024-09-26 10:36:35,293|INFO|||A-1727404595278-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4162885524|||||||
+2024-09-26 10:36:39,588|INFO|||A-1727404595277-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@7b5518b5|||||||
+2024-09-26 10:36:39,589|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:36:39,594|INFO|||A-1727404595278-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@778ec328|||||||
+2024-09-26 10:36:39,594|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:36:39,608|INFO|||1727404595278-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4162885524|||||||
+2024-09-26 10:36:39,609|INFO|||1727404595278-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:36:39,614|INFO|||1727404595277-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4263684365|||||||
+2024-09-26 10:36:39,614|INFO|||1727404595277-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:36:39,616|INFO|||1727404595277-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4263684365|||||||
+2024-09-26 10:36:39,609|INFO|||1727404595278-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4162885524|||||||
+2024-09-26 10:36:39,619|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.3.29-1582885524-1727404595278|||||||
+2024-09-26 10:36:39,625|INFO|||AGL-186.14.3.29-1582885524-1727404595278-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:36:39,625|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727404595277|||||||
+2024-09-26 10:36:39,626|INFO|||AGL-38.166.207.125-1993684365-1727404595277-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:36:40,203|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727404595277Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@2303380b|||||||
+2024-09-26 10:36:40,206|INFO|||AGL-38.166.207.125-1993684365-1727404595277|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|4929|||||||
+2024-09-26 10:36:40,220|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.3.29-1582885524-1727404595278Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@4592813f|||||||
+2024-09-26 10:36:40,220|INFO|||AGL-186.14.3.29-1582885524-1727404595278|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|4942|||||||
+2024-09-26 10:36:57,683|INFO|||1727404617137|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:37:18,469|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582007985,autog|||||||
+2024-09-26 10:37:18,474|INFO|||1727404638469|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582007985  p_app autog|||||||
+2024-09-26 10:37:18,752|INFO||||AGL-201.238.32.50-1582007985-1727404638752|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@55ab5f}|null|1727404638752|ex|||||||
+2024-09-26 10:37:18,753|INFO|||1727404638752|procesarTransaccionBuscarTelefono : 1582007985-AGL-201.238.32.50-1582007985-1727404638752|||||||
+2024-09-26 10:37:18,753|INFO|||A-1727404638752-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4162007985|||||||
+2024-09-26 10:37:19,605|INFO|||A-1727404638752-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@329b78f6|||||||
+2024-09-26 10:37:19,606|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:37:19,609|INFO|||1727404638752-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4162007985|||||||
+2024-09-26 10:37:19,618|INFO|||1727404638752-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:37:19,618|INFO|||1727404638752-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4162007985|||||||
+2024-09-26 10:37:19,618|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.50-1582007985-1727404638752|||||||
+2024-09-26 10:37:19,619|INFO|||AGL-201.238.32.50-1582007985-1727404638752-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:37:20,076|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.50-1582007985-1727404638752Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@73887511|||||||
+2024-09-26 10:37:20,077|INFO|||AGL-201.238.32.50-1582007985-1727404638752|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1325|||||||
+2024-09-26 10:37:29,435|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993684365,autog|||||||
+2024-09-26 10:37:29,435|INFO|||1727404649429|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993684365  p_app autog|||||||
+2024-09-26 10:37:29,473|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:37:29,484|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:37:47,777|INFO|||1727404667240|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:38:18,571|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994216023,autog|||||||
+2024-09-26 10:38:18,571|INFO|||1727404698569|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994216023  p_app autog|||||||
+2024-09-26 10:38:18,604|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:38:18,607|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:38:27,333|INFO|||UserDetailsServiceImpl.loadUserByUsername 1584053423,autog|||||||
+2024-09-26 10:38:27,334|INFO|||1727404707333|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1584053423  p_app autog|||||||
+2024-09-26 10:38:27,790|INFO||||AGL-190.201.197.93-1584053423-1727404707790|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@205f8b0d}|null|1727404707790|ex|||||||
+2024-09-26 10:38:27,791|INFO|||1727404707790|procesarTransaccionBuscarTelefono : 1584053423-AGL-190.201.197.93-1584053423-1727404707790|||||||
+2024-09-26 10:38:27,791|INFO|||A-1727404707790-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4164053423|||||||
+2024-09-26 10:38:28,835|INFO|||A-1727404707790-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@2372e201|||||||
+2024-09-26 10:38:28,836|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:38:28,850|INFO|||1727404707790-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4164053423|||||||
+2024-09-26 10:38:28,850|INFO|||1727404707790-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:38:28,850|INFO|||1727404707790-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4164053423|||||||
+2024-09-26 10:38:28,850|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.201.197.93-1584053423-1727404707790|||||||
+2024-09-26 10:38:28,851|INFO|||AGL-190.201.197.93-1584053423-1727404707790-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:38:29,284|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.201.197.93-1584053423-1727404707790Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@40e928cf|||||||
+2024-09-26 10:38:29,285|INFO|||AGL-190.201.197.93-1584053423-1727404707790|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1495|||||||
+2024-09-26 10:38:51,907|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993684365,autog|||||||
+2024-09-26 10:38:51,907|INFO|||1727404731907|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993684365  p_app autog|||||||
+2024-09-26 10:38:52,615|INFO||||AGL-38.166.207.125-1993684365-1727404732615|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@22b7cf30}|null|1727404732615|ex|||||||
+2024-09-26 10:38:52,616|INFO|||1727404732615|procesarTransaccionBuscarTelefono : 1993684365-AGL-38.166.207.125-1993684365-1727404732615|||||||
+2024-09-26 10:38:52,616|INFO|||A-1727404732615-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4263684365|||||||
+2024-09-26 10:38:53,532|INFO|||A-1727404732615-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@2cccb9f9|||||||
+2024-09-26 10:38:53,533|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:38:53,557|INFO|||1727404732615-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4263684365|||||||
+2024-09-26 10:38:53,561|INFO|||1727404732615-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:38:53,562|INFO|||1727404732615-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4263684365|||||||
+2024-09-26 10:38:53,562|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727404732615|||||||
+2024-09-26 10:38:53,563|INFO|||AGL-38.166.207.125-1993684365-1727404732615-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:38:54,041|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727404732615Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@37fcc709|||||||
+2024-09-26 10:38:54,050|INFO|||AGL-38.166.207.125-1993684365-1727404732615|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1435|||||||
+2024-09-26 10:39:00,635|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 10:39:00,636|INFO|||1727404740634|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 10:39:01,074|INFO||||AGL-10.8.2.131-1994093091-1727404741074|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@304b6bc}|null|1727404741074|ex|||||||
+2024-09-26 10:39:01,075|INFO|||1727404741074|procesarTransaccionBuscarTelefono : 1994093091-AGL-10.8.2.131-1994093091-1727404741074|||||||
+2024-09-26 10:39:01,075|INFO|||A-1727404741074-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 10:39:01,887|INFO|||A-1727404741074-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@72cd2817|||||||
+2024-09-26 10:39:01,888|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:39:01,888|INFO|||1727404741074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 10:39:01,888|INFO|||1727404741074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:39:01,889|INFO|||1727404741074-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 10:39:01,889|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1994093091-1727404741074|||||||
+2024-09-26 10:39:01,889|INFO|||AGL-10.8.2.131-1994093091-1727404741074-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:39:02,383|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1994093091-1727404741074Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@8c05b8a|||||||
+2024-09-26 10:39:02,385|INFO|||AGL-10.8.2.131-1994093091-1727404741074|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1311|||||||
+2024-09-26 10:39:23,608|INFO|||1727404763079|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:39:28,807|INFO|||1727404768282|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:40:49,686|INFO|||UserDetailsServiceImpl.loadUserByUsername 1997842041,autog|||||||
+2024-09-26 10:40:49,689|INFO|||1727404849686|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1997842041  p_app autog|||||||
+2024-09-26 10:40:50,335|INFO||||AGL-201.238.34.40-1997842041-1727404850335|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@2697df3c}|null|1727404850335|ex|||||||
+2024-09-26 10:40:50,336|INFO|||1727404850335|procesarTransaccionBuscarTelefono : 1997842041-AGL-201.238.34.40-1997842041-1727404850335|||||||
+2024-09-26 10:40:50,336|INFO|||A-1727404850335-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4267842041|||||||
+2024-09-26 10:40:51,172|INFO|||A-1727404850335-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3f626281|||||||
+2024-09-26 10:40:51,173|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:40:51,183|INFO|||1727404850335-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4267842041|||||||
+2024-09-26 10:40:51,183|INFO|||1727404850335-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:40:51,183|INFO|||1727404850335-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4267842041|||||||
+2024-09-26 10:40:51,183|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.34.40-1997842041-1727404850335|||||||
+2024-09-26 10:40:51,184|INFO|||AGL-201.238.34.40-1997842041-1727404850335-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:40:51,633|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.34.40-1997842041-1727404850335Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@2e52e1d1|||||||
+2024-09-26 10:40:51,634|INFO|||AGL-201.238.34.40-1997842041-1727404850335|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1299|||||||
+2024-09-26 10:40:52,974|INFO|||[Ljava.lang.String;@1f7c5c9d|||||||
+2024-09-26 10:40:52,998|INFO|||1727404852959|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS8GB|||||||
+2024-09-26 10:40:52,974|INFO|||[Ljava.lang.String;@22bc35c5|||||||
+2024-09-26 10:40:53,001|INFO|||1727404852960|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS8GB|||||||
+2024-09-26 10:40:52,983|INFO|||[Ljava.lang.String;@7fca5877|||||||
+2024-09-26 10:40:53,001|INFO|||1727404852983|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS8GB|||||||
+2024-09-26 10:40:53,058|INFO|||1727404852959|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:99 lista [ve.com.movilnet.api.repository.ViewPlane@6a86db89, ve.com.movilnet.api.repository.ViewPlane@6ea666e1, ve.com.movilnet.api.repository.ViewPlane@327716c5, ve.com.movilnet.api.repository.ViewPlane@396f1e91, ve.com.movilnet.api.repository.ViewPlane@65e9d0a6]|||||||
+2024-09-26 10:40:53,189|INFO|||1727404852960|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:229 lista [ve.com.movilnet.api.repository.ViewPlane@41b16e01, ve.com.movilnet.api.repository.ViewPlane@4dd6935f, ve.com.movilnet.api.repository.ViewPlane@a1c4738, ve.com.movilnet.api.repository.ViewPlane@2f8448a7, ve.com.movilnet.api.repository.ViewPlane@658fea30]|||||||
+2024-09-26 10:40:53,203|INFO|||1727404852983|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:220 lista [ve.com.movilnet.api.repository.ViewPlane@377141c1, ve.com.movilnet.api.repository.ViewPlane@7ea72436, ve.com.movilnet.api.repository.ViewPlane@3d9853e3, ve.com.movilnet.api.repository.ViewPlane@5ea998fb, ve.com.movilnet.api.repository.ViewPlane@63eba5a6]|||||||
+2024-09-26 10:41:09,405|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 10:41:09,406|INFO|||1727404869405|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 10:41:09,840|INFO||||AGL-10.8.2.131-1994093091-1727404869839|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@5c2c8c1a}|null|1727404869839|ex|||||||
+2024-09-26 10:41:09,844|INFO|||1727404869839|procesarTransaccionBuscarTelefono : 1994093091-AGL-10.8.2.131-1994093091-1727404869839|||||||
+2024-09-26 10:41:09,844|INFO|||A-1727404869839-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 10:41:10,804|INFO|||A-1727404869839-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@17eb0563|||||||
+2024-09-26 10:41:10,805|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:41:10,808|INFO|||1727404869839-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 10:41:10,808|INFO|||1727404869839-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:41:10,809|INFO|||1727404869839-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 10:41:10,809|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1994093091-1727404869839|||||||
+2024-09-26 10:41:10,809|INFO|||AGL-10.8.2.131-1994093091-1727404869839-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:41:11,351|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1994093091-1727404869839Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@19e4fa84|||||||
+2024-09-26 10:41:11,352|INFO|||AGL-10.8.2.131-1994093091-1727404869839|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1513|||||||
+2024-09-26 10:41:23,440|INFO|||1727404883158|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:41:37,379|INFO|||UserDetailsServiceImpl.loadUserByUsername 1585921591,autog|||||||
+2024-09-26 10:41:37,379|INFO|||1727404897379|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1585921591  p_app autog|||||||
+2024-09-26 10:41:37,408|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:41:37,413|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:41:41,318|INFO|||1727404900785|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:41:57,241|INFO|||UserDetailsServiceImpl.loadUserByUsername 1587717999,autog|||||||
+2024-09-26 10:41:57,241|INFO|||1727404917241|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1587717999  p_app autog|||||||
+2024-09-26 10:41:57,295|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:41:57,302|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:42:19,330|INFO|||UserDetailsServiceImpl.loadUserByUsername 1587717999,autog|||||||
+2024-09-26 10:42:19,330|INFO|||1727404939325|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1587717999  p_app autog|||||||
+2024-09-26 10:42:19,365|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:42:19,370|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:42:57,898|INFO|||UserDetailsServiceImpl.loadUserByUsername 1585921591,autog|||||||
+2024-09-26 10:42:57,898|INFO|||1727404977897|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1585921591  p_app autog|||||||
+2024-09-26 10:42:58,741|INFO||||AGL-190.206.115.228-1585921591-1727404978741|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@729a0c24}|null|1727404978741|ex|||||||
+2024-09-26 10:42:58,742|INFO|||1727404978741|procesarTransaccionBuscarTelefono : 1585921591-AGL-190.206.115.228-1585921591-1727404978741|||||||
+2024-09-26 10:42:58,742|INFO|||A-1727404978741-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4165921591|||||||
+2024-09-26 10:42:59,618|INFO|||A-1727404978741-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5b22a0cb|||||||
+2024-09-26 10:42:59,619|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:42:59,621|INFO|||1727404978741-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4165921591|||||||
+2024-09-26 10:42:59,621|INFO|||1727404978741-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:42:59,621|INFO|||1727404978741-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4165921591|||||||
+2024-09-26 10:42:59,621|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.206.115.228-1585921591-1727404978741|||||||
+2024-09-26 10:42:59,621|INFO|||AGL-190.206.115.228-1585921591-1727404978741-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:43:00,196|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.206.115.228-1585921591-1727404978741Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@347d5918|||||||
+2024-09-26 10:43:00,197|INFO|||AGL-190.206.115.228-1585921591-1727404978741|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1456|||||||
+2024-09-26 10:43:00,998|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:42:27Z. Current time: 2024-09-26T22:43:00Z, a difference of 33991 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 10:43:01,002|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:42:27Z. Current time: 2024-09-26T22:43:00Z, a difference of 33989 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 10:43:01,055|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:42:27Z. Current time: 2024-09-26T22:43:01Z, a difference of 34055 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 10:43:19,479|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994536228,autog|||||||
+2024-09-26 10:43:19,479|INFO|||1727404999479|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994536228  p_app autog|||||||
+2024-09-26 10:43:19,509|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 10:43:19,512|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:43:21,675|INFO|||UserDetailsServiceImpl.loadUserByUsername 1587717999,autog|||||||
+2024-09-26 10:43:21,676|INFO|||1727405001675|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1587717999  p_app autog|||||||
+2024-09-26 10:43:22,243|INFO||||AGL-201.242.238.101-1587717999-1727405002243|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@a2c132}|null|1727405002243|ex|||||||
+2024-09-26 10:43:22,247|INFO|||1727405002243|procesarTransaccionBuscarTelefono : 1587717999-AGL-201.242.238.101-1587717999-1727405002243|||||||
+2024-09-26 10:43:22,247|INFO|||A-1727405002243-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4167717999|||||||
+2024-09-26 10:43:23,179|INFO|||A-1727405002243-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@6dff318|||||||
+2024-09-26 10:43:23,180|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:43:23,184|INFO|||1727405002243-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4167717999|||||||
+2024-09-26 10:43:23,184|INFO|||1727405002243-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:43:23,184|INFO|||1727405002243-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4167717999|||||||
+2024-09-26 10:43:23,184|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.242.238.101-1587717999-1727405002243|||||||
+2024-09-26 10:43:23,185|INFO|||AGL-201.242.238.101-1587717999-1727405002243-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:43:23,672|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.242.238.101-1587717999-1727405002243Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@68a4f164|||||||
+2024-09-26 10:43:23,673|INFO|||AGL-201.242.238.101-1587717999-1727405002243|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1430|||||||
+2024-09-26 10:44:22,751|INFO|||1727405062223|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:44:28,776|INFO|||UserDetailsServiceImpl.loadUserByUsername 1584093091,autog|||||||
+2024-09-26 10:44:28,777|INFO|||1727405068776|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1584093091  p_app autog|||||||
+2024-09-26 10:44:28,813|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5009|||||||
+2024-09-26 10:44:28,821|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:45:37,176|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 10:45:37,177|INFO|||1727405137176|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 10:45:37,978|INFO||||AGL-186.14.249.142-1994093091-1727405137978|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@5122c48b}|null|1727405137978|ex|||||||
+2024-09-26 10:45:37,979|INFO|||1727405137978|procesarTransaccionBuscarTelefono : 1994093091-AGL-186.14.249.142-1994093091-1727405137978|||||||
+2024-09-26 10:45:37,979|INFO|||A-1727405137978-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 10:45:39,116|INFO|||A-1727405137978-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@6cf1550d|||||||
+2024-09-26 10:45:39,116|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:45:39,116|INFO|||1727405137978-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 10:45:39,117|INFO|||1727405137978-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:45:39,117|INFO|||1727405137978-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 10:45:39,117|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727405137978|||||||
+2024-09-26 10:45:39,117|INFO|||AGL-186.14.249.142-1994093091-1727405137978-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:45:39,614|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727405137978Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@2673eaa1|||||||
+2024-09-26 10:45:39,616|INFO|||AGL-186.14.249.142-1994093091-1727405137978|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1638|||||||
+2024-09-26 10:45:59,232|INFO|||1727405158705|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:46:59,830|INFO|||UserDetailsServiceImpl.loadUserByUsername 1589967706,autog|||||||
+2024-09-26 10:46:59,831|INFO|||1727405219830|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1589967706  p_app autog|||||||
+2024-09-26 10:47:00,608|INFO||||AGL-181.19.210.196-1589967706-1727405220608|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@1c655e9}|null|1727405220608|ex|||||||
+2024-09-26 10:47:00,609|INFO|||1727405220608|procesarTransaccionBuscarTelefono : 1589967706-AGL-181.19.210.196-1589967706-1727405220608|||||||
+2024-09-26 10:47:00,620|INFO|||A-1727405220608-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4169967706|||||||
+2024-09-26 10:47:02,771|INFO|||A-1727405220608-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@79cb4b26|||||||
+2024-09-26 10:47:02,772|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:47:02,777|INFO|||1727405220608-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4169967706|||||||
+2024-09-26 10:47:02,782|INFO|||1727405220608-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:47:02,782|INFO|||1727405220608-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4169967706|||||||
+2024-09-26 10:47:02,782|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.210.196-1589967706-1727405220608|||||||
+2024-09-26 10:47:02,782|INFO|||AGL-181.19.210.196-1589967706-1727405220608-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:47:03,343|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.210.196-1589967706-1727405220608Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@243caa9a|||||||
+2024-09-26 10:47:03,344|INFO|||AGL-181.19.210.196-1589967706-1727405220608|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|2736|||||||
+2024-09-26 10:47:34,691|INFO||||AGL-181.19.210.196-1589967706-1727405254691|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@22b87fc3}|null|1727405254691|ex|||||||
+2024-09-26 10:47:34,692|INFO|||1727405254691|procesarTransaccionBuscarTelefono : 1589967706-AGL-181.19.210.196-1589967706-1727405254691|||||||
+2024-09-26 10:47:34,692|INFO|||A-1727405254691-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4169967706|||||||
+2024-09-26 10:47:35,535|INFO|||A-1727405254691-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@582e4088|||||||
+2024-09-26 10:47:35,536|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:47:35,542|INFO|||1727405254691-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4169967706|||||||
+2024-09-26 10:47:35,543|INFO|||1727405254691-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:47:35,543|INFO|||1727405254691-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4169967706|||||||
+2024-09-26 10:47:35,543|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.210.196-1589967706-1727405254691|||||||
+2024-09-26 10:47:35,543|INFO|||AGL-181.19.210.196-1589967706-1727405254691-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:47:35,983|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.210.196-1589967706-1727405254691Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@54c5b10a|||||||
+2024-09-26 10:47:35,984|INFO|||AGL-181.19.210.196-1589967706-1727405254691|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1293|||||||
+2024-09-26 10:48:49,196|INFO||||AGL-186.14.249.142-1994093091-1727405329196|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@7fc23193}|null|1727405329196|ex|||||||
+2024-09-26 10:48:49,199|INFO|||1727405329196|procesarTransaccionBuscarTelefono : 1994093091-AGL-186.14.249.142-1994093091-1727405329196|||||||
+2024-09-26 10:48:49,200|INFO|||A-1727405329196-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 10:48:50,196|INFO|||A-1727405329196-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3ed64272|||||||
+2024-09-26 10:48:50,196|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:48:50,197|INFO|||1727405329196-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 10:48:50,197|INFO|||1727405329196-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:48:50,197|INFO|||1727405329196-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 10:48:50,198|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727405329196|||||||
+2024-09-26 10:48:50,198|INFO|||AGL-186.14.249.142-1994093091-1727405329196-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:48:50,714|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727405329196Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@5527d678|||||||
+2024-09-26 10:48:50,715|INFO|||AGL-186.14.249.142-1994093091-1727405329196|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1519|||||||
+2024-09-26 10:49:05,793|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994096958,autog|||||||
+2024-09-26 10:49:05,793|INFO|||1727405345791|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994096958  p_app autog|||||||
+2024-09-26 10:49:06,448|INFO||||AGL-186.96.67.59-1994096958-1727405346448|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@28ef7af7}|null|1727405346448|ex|||||||
+2024-09-26 10:49:06,449|INFO|||1727405346448|procesarTransaccionBuscarTelefono : 1994096958-AGL-186.96.67.59-1994096958-1727405346448|||||||
+2024-09-26 10:49:06,449|INFO|||A-1727405346448-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264096958|||||||
+2024-09-26 10:49:07,282|INFO|||A-1727405346448-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5f9125af|||||||
+2024-09-26 10:49:07,283|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:49:07,286|INFO|||1727405346448-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264096958|||||||
+2024-09-26 10:49:07,286|INFO|||1727405346448-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:49:07,287|INFO|||1727405346448-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264096958|||||||
+2024-09-26 10:49:07,288|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.96.67.59-1994096958-1727405346448|||||||
+2024-09-26 10:49:07,288|INFO|||AGL-186.96.67.59-1994096958-1727405346448-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:49:07,694|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.96.67.59-1994096958-1727405346448Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@3cd1fdb8|||||||
+2024-09-26 10:49:07,696|INFO|||AGL-186.96.67.59-1994096958-1727405346448|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1248|||||||
+2024-09-26 10:50:27,044|INFO|||1727405426517|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:50:36,290|INFO|||1727405435767|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:50:53,704|INFO|||1727405453183|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:51:29,467|INFO|||UserDetailsServiceImpl.loadUserByUsername 1992167715,autog|||||||
+2024-09-26 10:51:29,467|INFO|||1727405489466|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1992167715  p_app autog|||||||
+2024-09-26 10:51:30,096|INFO||||AGL-82.86.108.47-1992167715-1727405490096|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@4f21a7f1}|null|1727405490096|ex|||||||
+2024-09-26 10:51:30,099|INFO|||1727405490096|procesarTransaccionBuscarTelefono : 1992167715-AGL-82.86.108.47-1992167715-1727405490096|||||||
+2024-09-26 10:51:30,100|INFO|||A-1727405490096-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4262167715|||||||
+2024-09-26 10:51:31,055|INFO|||A-1727405490096-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@2a1130d|||||||
+2024-09-26 10:51:31,056|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:51:31,066|INFO|||1727405490096-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4262167715|||||||
+2024-09-26 10:51:31,066|INFO|||1727405490096-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:51:31,067|INFO|||1727405490096-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4262167715|||||||
+2024-09-26 10:51:31,067|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-82.86.108.47-1992167715-1727405490096|||||||
+2024-09-26 10:51:31,067|INFO|||AGL-82.86.108.47-1992167715-1727405490096-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:51:31,694|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-82.86.108.47-1992167715-1727405490096Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@ed18b11|||||||
+2024-09-26 10:51:31,694|INFO|||AGL-82.86.108.47-1992167715-1727405490096|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1598|||||||
+2024-09-26 10:51:36,278|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993237165,autog|||||||
+2024-09-26 10:51:36,278|INFO|||1727405496278|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993237165  p_app autog|||||||
+2024-09-26 10:51:36,939|INFO||||AGL-201.221.115.211-1993237165-1727405496938|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@11243429}|null|1727405496938|ex|||||||
+2024-09-26 10:51:36,940|INFO|||1727405496938|procesarTransaccionBuscarTelefono : 1993237165-AGL-201.221.115.211-1993237165-1727405496938|||||||
+2024-09-26 10:51:36,940|INFO|||A-1727405496938-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4263237165|||||||
+2024-09-26 10:51:37,642|INFO|||A-1727405496938-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@50c4c27c|||||||
+2024-09-26 10:51:37,643|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:51:37,648|INFO|||1727405496938-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4263237165|||||||
+2024-09-26 10:51:37,648|INFO|||1727405496938-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:51:37,648|INFO|||1727405496938-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4263237165|||||||
+2024-09-26 10:51:37,648|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.221.115.211-1993237165-1727405496938|||||||
+2024-09-26 10:51:37,649|INFO|||AGL-201.221.115.211-1993237165-1727405496938-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:51:38,056|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.221.115.211-1993237165-1727405496938Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@24f93d54|||||||
+2024-09-26 10:51:38,057|INFO|||AGL-201.221.115.211-1993237165-1727405496938|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1119|||||||
+2024-09-26 10:52:00,374|INFO|||UserDetailsServiceImpl.loadUserByUsername 1581484596,autog|||||||
+2024-09-26 10:52:00,374|INFO|||1727405520373|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1581484596  p_app autog|||||||
+2024-09-26 10:52:02,366|INFO||||AGL-186.185.26.20-1581484596-1727405522366|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6e76666f}|null|1727405522366|ex|||||||
+2024-09-26 10:52:02,367|INFO|||1727405522366|procesarTransaccionBuscarTelefono : 1581484596-AGL-186.185.26.20-1581484596-1727405522366|||||||
+2024-09-26 10:52:02,368|INFO|||A-1727405522366-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161484596|||||||
+2024-09-26 10:52:02,445|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582088241,autog|||||||
+2024-09-26 10:52:02,445|INFO|||1727405522445|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582088241  p_app autog|||||||
+2024-09-26 10:52:02,800|INFO||||AGL-10.8.2.131-1582088241-1727405522800|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@508e8629}|null|1727405522800|ex|||||||
+2024-09-26 10:52:02,801|INFO|||1727405522800|procesarTransaccionBuscarTelefono : 1582088241-AGL-10.8.2.131-1582088241-1727405522800|||||||
+2024-09-26 10:52:02,801|INFO|||A-1727405522800-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4162088241|||||||
+2024-09-26 10:52:03,194|INFO|||A-1727405522366-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3d95b6fe|||||||
+2024-09-26 10:52:03,195|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:52:03,196|INFO|||1727405522366-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161484596|||||||
+2024-09-26 10:52:03,196|INFO|||1727405522366-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:52:03,196|INFO|||1727405522366-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161484596|||||||
+2024-09-26 10:52:03,197|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.185.26.20-1581484596-1727405522366|||||||
+2024-09-26 10:52:03,197|INFO|||AGL-186.185.26.20-1581484596-1727405522366-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:52:03,617|INFO|||A-1727405522800-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5cf17b6b|||||||
+2024-09-26 10:52:03,622|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:52:03,624|INFO|||1727405522800-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4162088241|||||||
+2024-09-26 10:52:03,625|INFO|||1727405522800-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:52:03,625|INFO|||1727405522800-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4162088241|||||||
+2024-09-26 10:52:03,625|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1582088241-1727405522800|||||||
+2024-09-26 10:52:03,625|INFO|||AGL-10.8.2.131-1582088241-1727405522800-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:52:03,680|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.185.26.20-1581484596-1727405522366Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@4f81ace5|||||||
+2024-09-26 10:52:03,681|INFO|||AGL-186.185.26.20-1581484596-1727405522366|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1315|||||||
+2024-09-26 10:52:04,112|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.8.2.131-1582088241-1727405522800Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@73648fe6|||||||
+2024-09-26 10:52:04,113|INFO|||AGL-10.8.2.131-1582088241-1727405522800|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1313|||||||
+2024-09-26 10:52:39,319|INFO|||1727405558781|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:52:42,758|INFO|||1727405562220|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:53:46,108|INFO|||UserDetailsServiceImpl.loadUserByUsername 1584018730,autog|||||||
+2024-09-26 10:53:46,108|INFO|||1727405626107|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1584018730  p_app autog|||||||
+2024-09-26 10:53:46,807|INFO||||AGL-201.208.200.214-1584018730-1727405626807|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6abbdaec}|null|1727405626807|ex|||||||
+2024-09-26 10:53:46,808|INFO|||1727405626807|procesarTransaccionBuscarTelefono : 1584018730-AGL-201.208.200.214-1584018730-1727405626807|||||||
+2024-09-26 10:53:46,808|INFO|||A-1727405626807-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4164018730|||||||
+2024-09-26 10:53:48,015|INFO|||A-1727405626807-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@412a669c|||||||
+2024-09-26 10:53:48,017|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:53:48,020|INFO|||1727405626807-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4164018730|||||||
+2024-09-26 10:53:48,026|INFO|||1727405626807-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:53:48,026|INFO|||1727405626807-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4164018730|||||||
+2024-09-26 10:53:48,026|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.208.200.214-1584018730-1727405626807|||||||
+2024-09-26 10:53:48,026|INFO|||AGL-201.208.200.214-1584018730-1727405626807-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:53:48,466|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.208.200.214-1584018730-1727405626807Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@a8e7cf0|||||||
+2024-09-26 10:53:48,470|INFO|||AGL-201.208.200.214-1584018730-1727405626807|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1663|||||||
+2024-09-26 10:54:40,184|INFO|||1727405679655|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:54:45,809|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993684365,autog|||||||
+2024-09-26 10:54:45,809|INFO|||1727405685809|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993684365  p_app autog|||||||
+2024-09-26 10:54:46,660|INFO||||AGL-38.166.207.125-1993684365-1727405686659|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@393f2660}|null|1727405686659|ex|||||||
+2024-09-26 10:54:46,661|INFO|||1727405686659|procesarTransaccionBuscarTelefono : 1993684365-AGL-38.166.207.125-1993684365-1727405686659|||||||
+2024-09-26 10:54:46,661|INFO|||A-1727405686659-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4263684365|||||||
+2024-09-26 10:54:47,560|INFO|||A-1727405686659-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@2048ebc1|||||||
+2024-09-26 10:54:47,561|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:54:47,568|INFO|||1727405686659-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4263684365|||||||
+2024-09-26 10:54:47,568|INFO|||1727405686659-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 10:54:47,568|INFO|||1727405686659-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4263684365|||||||
+2024-09-26 10:54:47,569|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727405686659|||||||
+2024-09-26 10:54:47,569|INFO|||AGL-38.166.207.125-1993684365-1727405686659-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:54:47,996|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-38.166.207.125-1993684365-1727405686659Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@6525cd39|||||||
+2024-09-26 10:54:47,997|INFO|||AGL-38.166.207.125-1993684365-1727405686659|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1338|||||||
+2024-09-26 10:55:01,632|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994789415,autog|||||||
+2024-09-26 10:55:01,632|INFO|||1727405701631|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994789415  p_app autog|||||||
+2024-09-26 10:55:02,236|INFO||||AGL-138.186.179.78-1994789415-1727405702236|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@1045fa0d}|null|1727405702236|ex|||||||
+2024-09-26 10:55:02,237|INFO|||1727405702236|procesarTransaccionBuscarTelefono : 1994789415-AGL-138.186.179.78-1994789415-1727405702236|||||||
+2024-09-26 10:55:02,237|INFO|||A-1727405702236-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264789415|||||||
+2024-09-26 10:55:03,201|INFO|||A-1727405702236-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@43a537d|||||||
+2024-09-26 10:55:03,206|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:55:03,208|INFO|||1727405702236-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264789415|||||||
+2024-09-26 10:55:03,209|INFO|||1727405702236-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:55:03,209|INFO|||1727405702236-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264789415|||||||
+2024-09-26 10:55:03,209|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-138.186.179.78-1994789415-1727405702236|||||||
+2024-09-26 10:55:03,209|INFO|||AGL-138.186.179.78-1994789415-1727405702236-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:55:03,618|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-138.186.179.78-1994789415-1727405702236Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@72957795|||||||
+2024-09-26 10:55:03,619|INFO|||AGL-138.186.179.78-1994789415-1727405702236|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1383|||||||
+2024-09-26 10:57:09,334|INFO|||UserDetailsServiceImpl.loadUserByUsername 1997596000,autog|||||||
+2024-09-26 10:57:09,335|INFO|||1727405829334|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1997596000  p_app autog|||||||
+2024-09-26 10:57:09,360|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5009|||||||
+2024-09-26 10:57:09,364|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 10:57:52,304|INFO|||1727405872009|Perform| superado el Response luego del invoke|||||||
+2024-09-26 10:57:55,342|INFO|||UserDetailsServiceImpl.loadUserByUsername 1580264491,autog|||||||
+2024-09-26 10:57:55,343|INFO|||1727405875342|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1580264491  p_app autog|||||||
+2024-09-26 10:57:55,966|INFO||||AGL-186.95.185.72-1580264491-1727405875966|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@7ea76b19}|null|1727405875966|ex|||||||
+2024-09-26 10:57:55,967|INFO|||1727405875966|procesarTransaccionBuscarTelefono : 1580264491-AGL-186.95.185.72-1580264491-1727405875966|||||||
+2024-09-26 10:57:55,967|INFO|||A-1727405875966-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4160264491|||||||
+2024-09-26 10:57:56,887|INFO|||A-1727405875966-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@312bb520|||||||
+2024-09-26 10:57:56,894|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 10:57:56,895|INFO|||1727405875966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4160264491|||||||
+2024-09-26 10:57:56,895|INFO|||1727405875966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 10:57:56,896|INFO|||1727405875966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4160264491|||||||
+2024-09-26 10:57:56,896|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.95.185.72-1580264491-1727405875966|||||||
+2024-09-26 10:57:56,896|INFO|||AGL-186.95.185.72-1580264491-1727405875966-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 10:57:57,376|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.95.185.72-1580264491-1727405875966Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@1e9d597b|||||||
+2024-09-26 10:57:57,378|INFO|||AGL-186.95.185.72-1580264491-1727405875966|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1412|||||||
+2024-09-26 11:01:26,697|INFO|||1727406086159|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:02:03,395|INFO|||UserDetailsServiceImpl.loadUserByUsername 1993233437,autog|||||||
+2024-09-26 11:02:03,395|INFO|||1727406123395|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1993233437  p_app autog|||||||
+2024-09-26 11:02:04,021|INFO||||AGL-10.179.175.130-1993233437-1727406124021|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@3272c02d}|null|1727406124021|ex|||||||
+2024-09-26 11:02:04,022|INFO|||1727406124021|procesarTransaccionBuscarTelefono : 1993233437-AGL-10.179.175.130-1993233437-1727406124021|||||||
+2024-09-26 11:02:04,022|INFO|||A-1727406124021-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4263233437|||||||
+2024-09-26 11:02:04,904|INFO|||A-1727406124021-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@1f0365b9|||||||
+2024-09-26 11:02:04,905|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:02:04,911|INFO|||1727406124021-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4263233437|||||||
+2024-09-26 11:02:04,911|INFO|||1727406124021-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:02:04,911|INFO|||1727406124021-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4263233437|||||||
+2024-09-26 11:02:04,911|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.179.175.130-1993233437-1727406124021|||||||
+2024-09-26 11:02:04,911|INFO|||AGL-10.179.175.130-1993233437-1727406124021-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:02:05,459|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.179.175.130-1993233437-1727406124021Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@5495f249|||||||
+2024-09-26 11:02:05,460|INFO|||AGL-10.179.175.130-1993233437-1727406124021|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1439|||||||
+2024-09-26 11:02:54,513|INFO|||1727406173985|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:04:20,812|INFO|||UserDetailsServiceImpl.loadUserByUsername 1580634354,autog|||||||
+2024-09-26 11:04:20,812|INFO|||1727406260812|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1580634354  p_app autog|||||||
+2024-09-26 11:04:24,201|INFO||||AGL-201.238.32.79-1580634354-1727406264201|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@646334ed}|null|1727406264201|ex|||||||
+2024-09-26 11:04:24,202|INFO|||1727406264201|procesarTransaccionBuscarTelefono : 1580634354-AGL-201.238.32.79-1580634354-1727406264201|||||||
+2024-09-26 11:04:24,202|INFO|||A-1727406264201-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4160634354|||||||
+2024-09-26 11:04:25,207|INFO|||A-1727406264201-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3e111eb9|||||||
+2024-09-26 11:04:25,208|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:04:25,209|INFO|||1727406264201-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4160634354|||||||
+2024-09-26 11:04:25,213|INFO|||1727406264201-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:04:25,214|INFO|||1727406264201-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4160634354|||||||
+2024-09-26 11:04:25,214|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.79-1580634354-1727406264201|||||||
+2024-09-26 11:04:25,214|INFO|||AGL-201.238.32.79-1580634354-1727406264201-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:04:25,729|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-201.238.32.79-1580634354-1727406264201Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@7bb5ae09|||||||
+2024-09-26 11:04:25,730|INFO|||AGL-201.238.32.79-1580634354-1727406264201|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1529|||||||
+2024-09-26 11:04:33,011|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582929965,autog|||||||
+2024-09-26 11:04:33,011|INFO|||1727406273011|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582929965  p_app autog|||||||
+2024-09-26 11:04:33,477|INFO||||AGL-10.183.31.232-1582929965-1727406273477|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@71e257f5}|null|1727406273477|ex|||||||
+2024-09-26 11:04:33,478|INFO|||1727406273477|procesarTransaccionBuscarTelefono : 1582929965-AGL-10.183.31.232-1582929965-1727406273477|||||||
+2024-09-26 11:04:33,478|INFO|||A-1727406273477-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4162929965|||||||
+2024-09-26 11:04:34,312|INFO|||A-1727406273477-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3ab275a0|||||||
+2024-09-26 11:04:34,313|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:04:34,315|INFO|||1727406273477-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4162929965|||||||
+2024-09-26 11:04:34,315|INFO|||1727406273477-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:04:34,315|INFO|||1727406273477-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4162929965|||||||
+2024-09-26 11:04:34,315|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.183.31.232-1582929965-1727406273477|||||||
+2024-09-26 11:04:34,315|INFO|||AGL-10.183.31.232-1582929965-1727406273477-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:04:34,854|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.183.31.232-1582929965-1727406273477Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@6d9adfc2|||||||
+2024-09-26 11:04:34,854|INFO|||AGL-10.183.31.232-1582929965-1727406273477|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1377|||||||
+2024-09-26 11:04:35,504|INFO|||[Ljava.lang.String;@4bc004dc|||||||
+2024-09-26 11:04:35,504|INFO|||1727406275504|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTDAT36_V|||||||
+2024-09-26 11:04:35,505|INFO|||[Ljava.lang.String;@17c930e5|||||||
+2024-09-26 11:04:35,505|INFO|||1727406275505|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTDAT36_V|||||||
+2024-09-26 11:04:35,518|INFO|||[Ljava.lang.String;@5154df71|||||||
+2024-09-26 11:04:35,518|INFO|||1727406275518|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTDAT36_V|||||||
+2024-09-26 11:04:35,543|INFO|||1727406275505|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:38 lista [ve.com.movilnet.api.repository.ViewPlane@42319e4d, ve.com.movilnet.api.repository.ViewPlane@1fa3f51b, ve.com.movilnet.api.repository.ViewPlane@735d997, ve.com.movilnet.api.repository.ViewPlane@155f5a3e, ve.com.movilnet.api.repository.ViewPlane@5bd27d2e, ve.com.movilnet.api.repository.ViewPlane@5bd94062, ve.com.movilnet.api.repository.ViewPlane@7289c3ef, ve.com.movilnet.api.repository.ViewPlane@1d68e92a, ve.com.movilnet.api.repository.ViewPlane@551bdca4, ve.com.movilnet.api.repository.ViewPlane@44d05c35]|||||||
+2024-09-26 11:04:35,544|INFO|||1727406275504|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:40 lista [ve.com.movilnet.api.repository.ViewPlane@742b3d49, ve.com.movilnet.api.repository.ViewPlane@6eed7c8f, ve.com.movilnet.api.repository.ViewPlane@4c0fb1f9, ve.com.movilnet.api.repository.ViewPlane@42434ad9, ve.com.movilnet.api.repository.ViewPlane@6f2ff6ad, ve.com.movilnet.api.repository.ViewPlane@6aa3e6c3, ve.com.movilnet.api.repository.ViewPlane@5b921217, ve.com.movilnet.api.repository.ViewPlane@3df9e3e, ve.com.movilnet.api.repository.ViewPlane@13d58a76, ve.com.movilnet.api.repository.ViewPlane@6635e331]|||||||
+2024-09-26 11:04:35,548|INFO|||1727406275518|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:30 lista [ve.com.movilnet.api.repository.ViewPlane@525082a6, ve.com.movilnet.api.repository.ViewPlane@7479a470, ve.com.movilnet.api.repository.ViewPlane@7958bf5e, ve.com.movilnet.api.repository.ViewPlane@1fc7af32, ve.com.movilnet.api.repository.ViewPlane@49544bde, ve.com.movilnet.api.repository.ViewPlane@70373ca0, ve.com.movilnet.api.repository.ViewPlane@4c29dfb7, ve.com.movilnet.api.repository.ViewPlane@6e35473f, ve.com.movilnet.api.repository.ViewPlane@5d4fb9c, ve.com.movilnet.api.repository.ViewPlane@4ccf05ba]|||||||
+2024-09-26 11:04:43,018|INFO|||1727406282482|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:05:23,278|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:05:23,278|INFO|||1727406323278|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:05:23,300|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:05:23,304|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:07:48,768|INFO|||1727406468239|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:10:10,795|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:10:10,795|INFO|||1727406610795|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:10:10,822|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:10:10,826|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:10:37,590|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:10:37,590|INFO|||1727406637590|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:10:37,617|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:10:37,621|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:12:20,391|INFO|||1727406739870|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:12:59,088|INFO|||1727406778559|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:15:17,175|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994216343,autog|||||||
+2024-09-26 11:15:17,175|INFO|||1727406917175|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994216343  p_app autog|||||||
+2024-09-26 11:15:17,200|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:15:17,202|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:15:29,905|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:15:29,906|INFO|||1727406929905|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:15:29,935|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:15:29,946|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:16:07,154|INFO|||1727406966881|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:16:14,129|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994216343,autog|||||||
+2024-09-26 11:16:14,129|INFO|||1727406974128|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994216343  p_app autog|||||||
+2024-09-26 11:16:16,441|INFO||||AGL-154.197.1.84-1994216343-1727406976441|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@652e7691}|null|1727406976441|ex|||||||
+2024-09-26 11:16:16,442|INFO|||1727406976441|procesarTransaccionBuscarTelefono : 1994216343-AGL-154.197.1.84-1994216343-1727406976441|||||||
+2024-09-26 11:16:16,442|INFO|||A-1727406976441-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264216343|||||||
+2024-09-26 11:16:17,404|INFO|||A-1727406976441-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@22bdb59d|||||||
+2024-09-26 11:16:17,410|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:16:17,411|INFO|||1727406976441-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264216343|||||||
+2024-09-26 11:16:17,412|INFO|||1727406976441-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:16:17,412|INFO|||1727406976441-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264216343|||||||
+2024-09-26 11:16:17,412|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-154.197.1.84-1994216343-1727406976441|||||||
+2024-09-26 11:16:17,412|INFO|||AGL-154.197.1.84-1994216343-1727406976441-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:16:17,969|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-154.197.1.84-1994216343-1727406976441Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@67643c5a|||||||
+2024-09-26 11:16:17,981|INFO|||AGL-154.197.1.84-1994216343-1727406976441|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1540|||||||
+2024-09-26 11:16:27,603|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:16:27,603|INFO|||1727406987603|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:16:27,637|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:16:27,642|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:16:43,123|INFO|||UserDetailsServiceImpl.loadUserByUsername 1582456031,autog|||||||
+2024-09-26 11:16:43,123|INFO|||1727407003123|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1582456031  p_app autog|||||||
+2024-09-26 11:16:43,153|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:16:43,159|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:17:03,566|INFO|||1727407023038|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:17:11,870|INFO|||UserDetailsServiceImpl.loadUserByUsername 1584482703,autog|||||||
+2024-09-26 11:17:11,870|INFO|||1727407031865|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1584482703  p_app autog|||||||
+2024-09-26 11:17:12,552|INFO||||AGL-10.175.201.205-1584482703-1727407032552|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@1d615068}|null|1727407032552|ex|||||||
+2024-09-26 11:17:12,553|INFO|||1727407032552|procesarTransaccionBuscarTelefono : 1584482703-AGL-10.175.201.205-1584482703-1727407032552|||||||
+2024-09-26 11:17:12,553|INFO|||A-1727407032552-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4164482703|||||||
+2024-09-26 11:17:13,563|INFO|||A-1727407032552-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@7133173c|||||||
+2024-09-26 11:17:13,564|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:17:13,565|INFO|||1727407032552-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4164482703|||||||
+2024-09-26 11:17:13,565|INFO|||1727407032552-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:17:13,565|INFO|||1727407032552-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4164482703|||||||
+2024-09-26 11:17:13,565|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.175.201.205-1584482703-1727407032552|||||||
+2024-09-26 11:17:13,566|INFO|||AGL-10.175.201.205-1584482703-1727407032552-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:17:14,005|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.175.201.205-1584482703-1727407032552Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@7ca84f1f|||||||
+2024-09-26 11:17:14,006|INFO|||AGL-10.175.201.205-1584482703-1727407032552|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1454|||||||
+2024-09-26 11:18:47,828|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994016766,autog|||||||
+2024-09-26 11:18:47,828|INFO|||1727407127828|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994016766  p_app autog|||||||
+2024-09-26 11:18:48,542|INFO||||AGL-190.205.5.33-1994016766-1727407128536|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@7edf79e1}|null|1727407128536|ex|||||||
+2024-09-26 11:18:48,542|INFO|||1727407128536|procesarTransaccionBuscarTelefono : 1994016766-AGL-190.205.5.33-1994016766-1727407128536|||||||
+2024-09-26 11:18:48,542|INFO|||A-1727407128536-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264016766|||||||
+2024-09-26 11:18:49,489|INFO|||A-1727407128536-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@1d5b44ae|||||||
+2024-09-26 11:18:49,490|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:18:49,492|INFO|||1727407128536-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264016766|||||||
+2024-09-26 11:18:49,493|INFO|||1727407128536-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:18:49,494|INFO|||1727407128536-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264016766|||||||
+2024-09-26 11:18:49,494|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.205.5.33-1994016766-1727407128536|||||||
+2024-09-26 11:18:49,494|INFO|||AGL-190.205.5.33-1994016766-1727407128536-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:18:49,970|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-190.205.5.33-1994016766-1727407128536Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@17e6ce47|||||||
+2024-09-26 11:18:49,971|INFO|||AGL-190.205.5.33-1994016766-1727407128536|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1435|||||||
+2024-09-26 11:19:46,287|INFO|||1727407185753|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:23:38,761|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:56:58Z. Current time: 2024-09-26T23:23:38Z, a difference of 1600760 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:24:33,006|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994096958,autog|||||||
+2024-09-26 11:24:33,007|INFO|||1727407473006|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994096958  p_app autog|||||||
+2024-09-26 11:24:33,035|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:24:33,037|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:24:51,672|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:24:51,672|INFO|||1727407491672|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:24:52,305|INFO||||AGL-186.14.249.142-1994093091-1727407492305|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@23634842}|null|1727407492305|ex|||||||
+2024-09-26 11:24:52,306|INFO|||1727407492305|procesarTransaccionBuscarTelefono : 1994093091-AGL-186.14.249.142-1994093091-1727407492305|||||||
+2024-09-26 11:24:52,306|INFO|||A-1727407492305-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 11:24:53,311|INFO|||A-1727407492305-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@619be6c6|||||||
+2024-09-26 11:24:53,312|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:24:53,313|INFO|||1727407492305-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 11:24:53,313|INFO|||1727407492305-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:24:53,313|INFO|||1727407492305-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 11:24:53,313|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727407492305|||||||
+2024-09-26 11:24:53,314|INFO|||AGL-186.14.249.142-1994093091-1727407492305-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:24:53,756|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727407492305Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@c933e2e|||||||
+2024-09-26 11:24:53,757|INFO|||AGL-186.14.249.142-1994093091-1727407492305|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1452|||||||
+2024-09-26 11:24:54,535|INFO|||[Ljava.lang.String;@166ee7eb|||||||
+2024-09-26 11:24:54,536|INFO|||1727407494535|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS12GB|||||||
+2024-09-26 11:24:54,553|INFO|||[Ljava.lang.String;@141dd510|||||||
+2024-09-26 11:24:54,553|INFO|||1727407494553|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS12GB|||||||
+2024-09-26 11:24:54,565|INFO|||1727407494535|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:30 lista [ve.com.movilnet.api.repository.ViewPlane@54c8be5, ve.com.movilnet.api.repository.ViewPlane@4099d403, ve.com.movilnet.api.repository.ViewPlane@7ffa24fb, ve.com.movilnet.api.repository.ViewPlane@78c89733, ve.com.movilnet.api.repository.ViewPlane@193a286c, ve.com.movilnet.api.repository.ViewPlane@178dce84, ve.com.movilnet.api.repository.ViewPlane@397eed72, ve.com.movilnet.api.repository.ViewPlane@5339461, ve.com.movilnet.api.repository.ViewPlane@4d02a5e3]|||||||
+2024-09-26 11:24:54,588|INFO|||1727407494553|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:35 lista [ve.com.movilnet.api.repository.ViewPlane@4a519ac1, ve.com.movilnet.api.repository.ViewPlane@77e88af7, ve.com.movilnet.api.repository.ViewPlane@7769901e, ve.com.movilnet.api.repository.ViewPlane@34d020a0, ve.com.movilnet.api.repository.ViewPlane@72912369, ve.com.movilnet.api.repository.ViewPlane@411da0fe, ve.com.movilnet.api.repository.ViewPlane@7acf21a3, ve.com.movilnet.api.repository.ViewPlane@4f2fdb7a, ve.com.movilnet.api.repository.ViewPlane@345e339d]|||||||
+2024-09-26 11:27:42,180|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:27:42,183|INFO|||1727407662179|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:30:13,135|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994983091,autog|||||||
+2024-09-26 11:30:13,135|INFO|||1727407813134|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994983091  p_app autog|||||||
+2024-09-26 11:30:13,157|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5009|||||||
+2024-09-26 11:30:13,159|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:30:28,074|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:30:28,074|INFO|||1727407828074|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:30:28,725|INFO||||AGL-186.14.249.142-1994093091-1727407828725|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@773b5e22}|null|1727407828725|ex|||||||
+2024-09-26 11:30:28,726|INFO|||1727407828725|procesarTransaccionBuscarTelefono : 1994093091-AGL-186.14.249.142-1994093091-1727407828725|||||||
+2024-09-26 11:30:28,726|INFO|||A-1727407828725-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 11:30:29,886|INFO|||A-1727407828725-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@4d617e35|||||||
+2024-09-26 11:30:29,887|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:30:29,888|INFO|||1727407828725-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 11:30:29,888|INFO|||1727407828725-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:30:29,888|INFO|||1727407828725-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 11:30:29,888|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727407828725|||||||
+2024-09-26 11:30:29,888|INFO|||AGL-186.14.249.142-1994093091-1727407828725-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:30:30,419|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.14.249.142-1994093091-1727407828725Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@3d992936|||||||
+2024-09-26 11:30:30,420|INFO|||AGL-186.14.249.142-1994093091-1727407828725|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1695|||||||
+2024-09-26 11:31:02,728|INFO|||1727407862185|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:32:09,508|INFO|||UserDetailsServiceImpl.loadUserByUsername 1581412966,autog|||||||
+2024-09-26 11:32:09,508|INFO|||1727407929508|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1581412966  p_app autog|||||||
+2024-09-26 11:32:10,155|INFO||||AGL-186.167.230.135-1581412966-1727407930155|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@7a515f90}|null|1727407930155|ex|||||||
+2024-09-26 11:32:10,156|INFO|||1727407930155|procesarTransaccionBuscarTelefono : 1581412966-AGL-186.167.230.135-1581412966-1727407930155|||||||
+2024-09-26 11:32:10,156|INFO|||A-1727407930155-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161412966|||||||
+2024-09-26 11:32:11,065|INFO|||A-1727407930155-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@55c6390a|||||||
+2024-09-26 11:32:11,065|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:32:11,066|INFO|||1727407930155-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161412966|||||||
+2024-09-26 11:32:11,066|INFO|||1727407930155-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:32:11,066|INFO|||1727407930155-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161412966|||||||
+2024-09-26 11:32:11,066|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.167.230.135-1581412966-1727407930155|||||||
+2024-09-26 11:32:11,066|INFO|||AGL-186.167.230.135-1581412966-1727407930155-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:32:11,565|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.167.230.135-1581412966-1727407930155Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@380a6940|||||||
+2024-09-26 11:32:11,582|INFO|||AGL-186.167.230.135-1581412966-1727407930155|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1427|||||||
+2024-09-26 11:35:25,242|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:35:25,245|INFO|||1727408125242|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:35:25,244|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:35:25,246|INFO|||1727408125244|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:35:25,247|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:35:25,247|INFO|||1727408125247|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:36:48,335|INFO|||UserDetailsServiceImpl.loadUserByUsername 1992208473,autog|||||||
+2024-09-26 11:36:48,335|INFO|||1727408208335|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1992208473  p_app autog|||||||
+2024-09-26 11:36:48,882|INFO||||AGL-181.19.158.251-1992208473-1727408208882|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@79886260}|null|1727408208882|ex|||||||
+2024-09-26 11:36:48,883|INFO|||1727408208882|procesarTransaccionBuscarTelefono : 1992208473-AGL-181.19.158.251-1992208473-1727408208882|||||||
+2024-09-26 11:36:48,883|INFO|||A-1727408208882-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4262208473|||||||
+2024-09-26 11:36:49,842|INFO|||A-1727408208882-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@70848649|||||||
+2024-09-26 11:36:49,843|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:36:49,844|INFO|||1727408208882-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4262208473|||||||
+2024-09-26 11:36:49,844|INFO|||1727408208882-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:36:49,845|INFO|||1727408208882-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4262208473|||||||
+2024-09-26 11:36:49,845|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.158.251-1992208473-1727408208882|||||||
+2024-09-26 11:36:49,845|INFO|||AGL-181.19.158.251-1992208473-1727408208882-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:36:50,256|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.19.158.251-1992208473-1727408208882Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@14374711|||||||
+2024-09-26 11:36:50,257|INFO|||AGL-181.19.158.251-1992208473-1727408208882|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1375|||||||
+2024-09-26 11:36:53,633|INFO|||[Ljava.lang.String;@303aa360|||||||
+2024-09-26 11:36:53,634|INFO|||1727408213633|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_PROMOGOLVIN|||||||
+2024-09-26 11:36:53,651|INFO|||1727408213633|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:17 lista [ve.com.movilnet.api.repository.ViewPlane@1c06662c, ve.com.movilnet.api.repository.ViewPlane@18566b33, ve.com.movilnet.api.repository.ViewPlane@3965d4c3, ve.com.movilnet.api.repository.ViewPlane@57970c6b, ve.com.movilnet.api.repository.ViewPlane@780f27b3, ve.com.movilnet.api.repository.ViewPlane@532bd472]|||||||
+2024-09-26 11:38:41,723|INFO|||UserDetailsServiceImpl.loadUserByUsername 1585314874,autog|||||||
+2024-09-26 11:38:41,723|INFO|||1727408321723|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1585314874  p_app autog|||||||
+2024-09-26 11:38:42,211|INFO||||AGL-10.177.136.189-1585314874-1727408322211|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@69e90a4a}|null|1727408322211|ex|||||||
+2024-09-26 11:38:42,218|INFO|||1727408322211|procesarTransaccionBuscarTelefono : 1585314874-AGL-10.177.136.189-1585314874-1727408322211|||||||
+2024-09-26 11:38:42,218|INFO|||A-1727408322211-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4165314874|||||||
+2024-09-26 11:38:43,129|INFO|||A-1727408322211-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@926d2ec|||||||
+2024-09-26 11:38:43,130|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:38:43,132|INFO|||1727408322211-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4165314874|||||||
+2024-09-26 11:38:43,133|INFO|||1727408322211-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:38:43,133|INFO|||1727408322211-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4165314874|||||||
+2024-09-26 11:38:43,133|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.177.136.189-1585314874-1727408322211|||||||
+2024-09-26 11:38:43,133|INFO|||AGL-10.177.136.189-1585314874-1727408322211-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:38:43,596|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.177.136.189-1585314874-1727408322211Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@b9a9bee|||||||
+2024-09-26 11:38:43,597|INFO|||AGL-10.177.136.189-1585314874-1727408322211|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1386|||||||
+2024-09-26 11:38:44,731|INFO|||[Ljava.lang.String;@36d3bc19|||||||
+2024-09-26 11:38:44,731|INFO|||1727408324731|DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTPLA21GB|||||||
+2024-09-26 11:38:44,766|INFO|||1727408324731|DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:34 lista [ve.com.movilnet.api.repository.ViewPlane@80d4ecf, ve.com.movilnet.api.repository.ViewPlane@31e6281d, ve.com.movilnet.api.repository.ViewPlane@7b99f80f, ve.com.movilnet.api.repository.ViewPlane@70e99121, ve.com.movilnet.api.repository.ViewPlane@1270d2c5, ve.com.movilnet.api.repository.ViewPlane@12d6a656, ve.com.movilnet.api.repository.ViewPlane@26bb6d83, ve.com.movilnet.api.repository.ViewPlane@1ae780ec, ve.com.movilnet.api.repository.ViewPlane@e158f8f, ve.com.movilnet.api.repository.ViewPlane@29d66c0d]|||||||
+2024-09-26 11:39:46,358|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:49:19Z. Current time: 2024-09-26T23:39:46Z, a difference of 3027353 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:40:03,566|ERROR|||JWT token is expired: JWT expired at 2024-09-26T23:38:38Z. Current time: 2024-09-26T23:40:03Z, a difference of 85566 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:40:18,542|INFO|||UserDetailsServiceImpl.loadUserByUsername 1581393879,autog|||||||
+2024-09-26 11:40:18,542|INFO|||1727408418538|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1581393879  p_app autog|||||||
+2024-09-26 11:40:19,491|INFO||||AGL-181.35.113.157-1581393879-1727408419491|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@628d25ce}|null|1727408419491|ex|||||||
+2024-09-26 11:40:19,492|INFO|||1727408419491|procesarTransaccionBuscarTelefono : 1581393879-AGL-181.35.113.157-1581393879-1727408419491|||||||
+2024-09-26 11:40:19,492|INFO|||A-1727408419491-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161393879|||||||
+2024-09-26 11:40:20,410|INFO|||A-1727408419491-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@bae9d9c|||||||
+2024-09-26 11:40:20,411|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:40:20,415|INFO|||1727408419491-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161393879|||||||
+2024-09-26 11:40:20,415|INFO|||1727408419491-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:40:20,415|INFO|||1727408419491-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161393879|||||||
+2024-09-26 11:40:20,415|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408419491|||||||
+2024-09-26 11:40:20,415|INFO|||AGL-181.35.113.157-1581393879-1727408419491-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:40:21,023|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408419491Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@2b057282|||||||
+2024-09-26 11:40:21,023|INFO|||AGL-181.35.113.157-1581393879-1727408419491|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1532|||||||
+2024-09-26 11:40:26,160|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093109,autog|||||||
+2024-09-26 11:40:26,161|INFO|||1727408426160|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093109  p_app autog|||||||
+2024-09-26 11:40:26,207|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5009|||||||
+2024-09-26 11:40:26,210|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:40:29,476|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994096958,autog|||||||
+2024-09-26 11:40:29,477|INFO|||1727408429476|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994096958  p_app autog|||||||
+2024-09-26 11:40:30,121|INFO||||AGL-186.96.67.59-1994096958-1727408430120|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@7475e653}|null|1727408430120|ex|||||||
+2024-09-26 11:40:30,121|INFO|||1727408430120|procesarTransaccionBuscarTelefono : 1994096958-AGL-186.96.67.59-1994096958-1727408430120|||||||
+2024-09-26 11:40:30,122|INFO|||A-1727408430120-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264096958|||||||
+2024-09-26 11:40:30,991|INFO|||A-1727408430120-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@12908f36|||||||
+2024-09-26 11:40:30,992|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:40:30,995|INFO|||1727408430120-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264096958|||||||
+2024-09-26 11:40:30,995|INFO|||1727408430120-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:40:30,995|INFO|||1727408430120-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264096958|||||||
+2024-09-26 11:40:30,995|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.96.67.59-1994096958-1727408430120|||||||
+2024-09-26 11:40:30,995|INFO|||AGL-186.96.67.59-1994096958-1727408430120-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:40:31,420|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.96.67.59-1994096958-1727408430120Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@74b811f9|||||||
+2024-09-26 11:40:31,421|INFO|||AGL-186.96.67.59-1994096958-1727408430120|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1301|||||||
+2024-09-26 11:40:33,572|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994093091,autog|||||||
+2024-09-26 11:40:33,572|INFO|||1727408433570|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091  p_app autog|||||||
+2024-09-26 11:40:34,677|INFO||||AGL-10.180.68.219-1994093091-1727408434677|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@432c4def}|null|1727408434677|ex|||||||
+2024-09-26 11:40:34,679|INFO|||1727408434677|procesarTransaccionBuscarTelefono : 1994093091-AGL-10.180.68.219-1994093091-1727408434677|||||||
+2024-09-26 11:40:34,679|INFO|||A-1727408434677-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 11:40:35,497|INFO|||A-1727408434677-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@6be3d2ed|||||||
+2024-09-26 11:40:35,497|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:40:35,498|INFO|||1727408434677-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 11:40:35,498|INFO|||1727408434677-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:40:35,498|INFO|||1727408434677-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 11:40:35,498|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.180.68.219-1994093091-1727408434677|||||||
+2024-09-26 11:40:35,498|INFO|||AGL-10.180.68.219-1994093091-1727408434677-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:40:35,881|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.180.68.219-1994093091-1727408434677Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@56cf389e|||||||
+2024-09-26 11:40:35,882|INFO|||AGL-10.180.68.219-1994093091-1727408434677|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1205|||||||
+2024-09-26 11:40:43,354|INFO||||AGL-181.35.113.157-1581393879-1727408443353|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@45048a2b}|null|1727408443353|ex|||||||
+2024-09-26 11:40:43,354|INFO|||1727408443353|procesarTransaccionBuscarTelefono : 1581393879-AGL-181.35.113.157-1581393879-1727408443353|||||||
+2024-09-26 11:40:43,354|INFO|||A-1727408443353-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161393879|||||||
+2024-09-26 11:40:44,029|INFO|||A-1727408443353-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@6ad329ed|||||||
+2024-09-26 11:40:44,030|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:40:44,031|INFO|||1727408443353-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161393879|||||||
+2024-09-26 11:40:44,031|INFO|||1727408443353-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:40:44,031|INFO|||1727408443353-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161393879|||||||
+2024-09-26 11:40:44,031|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408443353|||||||
+2024-09-26 11:40:44,031|INFO|||AGL-181.35.113.157-1581393879-1727408443353-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:40:44,497|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408443353Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@56d40764|||||||
+2024-09-26 11:40:44,498|INFO|||AGL-181.35.113.157-1581393879-1727408443353|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1145|||||||
+2024-09-26 11:41:28,515|INFO||||AGL-181.35.113.157-1581393879-1727408488515|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@193c565c}|null|1727408488515|ex|||||||
+2024-09-26 11:41:28,516|INFO|||1727408488515|procesarTransaccionBuscarTelefono : 1581393879-AGL-181.35.113.157-1581393879-1727408488515|||||||
+2024-09-26 11:41:28,516|INFO|||A-1727408488515-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161393879|||||||
+2024-09-26 11:41:29,355|INFO|||A-1727408488515-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@3bdd4a60|||||||
+2024-09-26 11:41:29,355|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:41:29,356|INFO|||1727408488515-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161393879|||||||
+2024-09-26 11:41:29,357|INFO|||1727408488515-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:41:29,357|INFO|||1727408488515-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161393879|||||||
+2024-09-26 11:41:29,357|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408488515|||||||
+2024-09-26 11:41:29,357|INFO|||AGL-181.35.113.157-1581393879-1727408488515-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:41:29,833|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-181.35.113.157-1581393879-1727408488515Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@994fee3|||||||
+2024-09-26 11:41:29,834|INFO|||AGL-181.35.113.157-1581393879-1727408488515|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1319|||||||
+2024-09-26 11:42:39,826|INFO|||1727408559534|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:42:53,187|INFO|||UserDetailsServiceImpl.loadUserByUsername 1580264491,autog|||||||
+2024-09-26 11:42:53,188|INFO|||1727408573187|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1580264491  p_app autog|||||||
+2024-09-26 11:42:53,990|INFO||||AGL-186.95.185.72-1580264491-1727408573990|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@e778d2b}|null|1727408573990|ex|||||||
+2024-09-26 11:42:53,991|INFO|||1727408573990|procesarTransaccionBuscarTelefono : 1580264491-AGL-186.95.185.72-1580264491-1727408573990|||||||
+2024-09-26 11:42:53,991|INFO|||A-1727408573990-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4160264491|||||||
+2024-09-26 11:42:54,919|INFO|||A-1727408573990-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@62184d67|||||||
+2024-09-26 11:42:54,920|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:42:54,922|INFO|||1727408573990-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4160264491|||||||
+2024-09-26 11:42:54,922|INFO|||1727408573990-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:42:54,923|INFO|||1727408573990-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4160264491|||||||
+2024-09-26 11:42:54,923|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.95.185.72-1580264491-1727408573990|||||||
+2024-09-26 11:42:54,923|INFO|||AGL-186.95.185.72-1580264491-1727408573990-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:42:55,426|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-186.95.185.72-1580264491-1727408573990Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@7ca3ac9|||||||
+2024-09-26 11:42:55,427|INFO|||AGL-186.95.185.72-1580264491-1727408573990|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1436|||||||
+2024-09-26 11:43:28,296|INFO|||UserDetailsServiceImpl.loadUserByUsername 1994943584,autog|||||||
+2024-09-26 11:43:28,296|INFO|||1727408608296|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994943584  p_app autog|||||||
+2024-09-26 11:43:28,909|INFO||||AGL-10.169.216.241-1994943584-1727408608909|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@4de55f90}|null|1727408608909|ex|||||||
+2024-09-26 11:43:28,910|INFO|||1727408608909|procesarTransaccionBuscarTelefono : 1994943584-AGL-10.169.216.241-1994943584-1727408608909|||||||
+2024-09-26 11:43:28,910|INFO|||A-1727408608909-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264943584|||||||
+2024-09-26 11:43:29,879|INFO|||A-1727408608909-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5a886b44|||||||
+2024-09-26 11:43:29,880|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:43:29,881|INFO|||1727408608909-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264943584|||||||
+2024-09-26 11:43:29,881|INFO|||1727408608909-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:43:29,881|INFO|||1727408608909-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264943584|||||||
+2024-09-26 11:43:29,881|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.169.216.241-1994943584-1727408608909|||||||
+2024-09-26 11:43:29,881|INFO|||AGL-10.169.216.241-1994943584-1727408608909-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:43:30,302|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.169.216.241-1994943584-1727408608909Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@5ac9160b|||||||
+2024-09-26 11:43:30,304|INFO|||AGL-10.169.216.241-1994943584-1727408608909|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1394|||||||
+2024-09-26 11:46:47,407|INFO|||UserDetailsServiceImpl.loadUserByUsername 1589189997,autog|||||||
+2024-09-26 11:46:47,414|INFO|||1727408807407|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1589189997  p_app autog|||||||
+2024-09-26 11:46:47,442|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:46:47,445|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:47:25,235|INFO|||UserDetailsServiceImpl.loadUserByUsername 1589189997,autog|||||||
+2024-09-26 11:47:25,235|INFO|||1727408845235|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1589189997  p_app autog|||||||
+2024-09-26 11:47:26,070|INFO||||AGL-10.175.38.16-1589189997-1727408846070|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@4f6dba0}|null|1727408846070|ex|||||||
+2024-09-26 11:47:26,071|INFO|||1727408846070|procesarTransaccionBuscarTelefono : 1589189997-AGL-10.175.38.16-1589189997-1727408846070|||||||
+2024-09-26 11:47:26,071|INFO|||A-1727408846070-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4169189997|||||||
+2024-09-26 11:47:26,899|INFO|||A-1727408846070-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@23603b8b|||||||
+2024-09-26 11:47:26,899|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:47:26,906|INFO|||1727408846070-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4169189997|||||||
+2024-09-26 11:47:26,907|INFO|||1727408846070-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:47:26,907|INFO|||1727408846070-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4169189997|||||||
+2024-09-26 11:47:26,907|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.175.38.16-1589189997-1727408846070|||||||
+2024-09-26 11:47:26,907|INFO|||AGL-10.175.38.16-1589189997-1727408846070-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:47:27,364|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-10.175.38.16-1589189997-1727408846070Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@5d9c1a64|||||||
+2024-09-26 11:47:27,365|INFO|||AGL-10.175.38.16-1589189997-1727408846070|PerfilClienteController.procesarTransaccionBuscarTelefono|RA2005|1295|||||||
+2024-09-26 11:51:51,725|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:51:51,750|INFO|||DataRepository.buscarTodos() PlanOfertaResponse |||||||
+2024-09-26 11:51:51,802|INFO|||DataRepository.SYM_view_planesa|RA2008-1|tiempoEjecucion:52|||||||
+2024-09-26 11:51:51,803|INFO|||DataRepository.buscarTodosServ() ServicioOfertaResponse |||||||
+2024-09-26 11:51:51,820|INFO|||DataRepository.SYM_view_servicea|RA2009-1|tiempoEjecucion:17|||||||
+2024-09-26 11:51:51,982|INFO|||ScheduledDataUpdater.updateData LISTO getStates---------|257|||||||
+2024-09-26 11:51:52,058|INFO|||ScheduledDataUpdater.updateData LISTO getMunicipios---------|333|||||||
+2024-09-26 11:51:52,254|INFO|||ScheduledDataUpdater.updateData LISTO getParroquias---------|529|||||||
+2024-09-26 11:51:55,463|INFO|||ScheduledDataUpdater.updateData LISTO getSectores---------|3737|||||||
+2024-09-26 11:51:55,660|INFO|||ScheduledDataUpdater.updateData getCities|3935|||||||
+2024-09-26 11:51:56,940|INFO|||WebSecurityConfig.configure ve.com.movilnet.api.auth.security.jwt.services.UserDetailsServiceImpl@4b8353c|||||||
+2024-09-26 11:52:03,920|ERROR|||JWT token is expired: JWT expired at 2024-09-26T22:51:32Z. Current time: 2024-09-26T23:52:03Z, a difference of 3631920 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:54:08,439|ERROR|||JWT token is expired: JWT expired at 2024-09-26T23:00:12Z. Current time: 2024-09-26T23:54:08Z, a difference of 3236439 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:54:08,475|ERROR|||AuthEntryPointJwt  commence: Full authentication is required to access this resource|||||||
+2024-09-26 11:54:51,574|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:54:51,583|INFO|||1727409291574|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994093091|||||||
+2024-09-26 11:54:52,414|INFO||||AGL-127.0.0.1-1994093091-1727409292413|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@1583c552}|null|1727409292413|ex|||||||
+2024-09-26 11:54:52,415|INFO|||1727409292413|procesarTransaccionBuscarTelefono : 1994093091-AGL-127.0.0.1-1994093091-1727409292413|||||||
+2024-09-26 11:54:52,419|INFO|||A-1727409292413-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264093091|||||||
+2024-09-26 11:54:56,225|INFO|||A-1727409292413-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@333008c5|||||||
+2024-09-26 11:54:56,227|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:54:56,235|INFO|||1727409292413-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264093091|||||||
+2024-09-26 11:54:56,236|INFO|||1727409292413-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:54:56,237|INFO|||1727409292413-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264093091|||||||
+2024-09-26 11:54:56,240|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1994093091-1727409292413|||||||
+2024-09-26 11:54:56,247|INFO|||AGL-127.0.0.1-1994093091-1727409292413-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:54:56,779|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1994093091-1727409292413Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@317b2188|||||||
+2024-09-26 11:54:56,783|INFO||||AGL-127.0.0.1-1994093091-1727409292413|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@1583c552}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@79d1124f}|4370|ex|||||||
+2024-09-26 11:54:57,303|INFO|||[Ljava.lang.String;@33bfcffc|||||||
+2024-09-26 11:54:57,304|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS12GB|||||||
+2024-09-26 11:54:57,303|INFO|||[Ljava.lang.String;@4b4c655b|||||||
+2024-09-26 11:54:57,306|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS12GB|||||||
+2024-09-26 11:54:57,303|INFO|||[Ljava.lang.String;@524bb13a|||||||
+2024-09-26 11:54:57,306|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_MEGPLUS12GB|||||||
+2024-09-26 11:54:57,341|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:38|||||||
+2024-09-26 11:54:57,503|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:200|||||||
+2024-09-26 11:54:57,518|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:216|||||||
+2024-09-26 11:56:03,909|ERROR|||JWT token is expired: JWT expired at 2024-09-16T11:57:29Z. Current time: 2024-09-26T23:56:03Z, a difference of 907114908 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:56:33,839|INFO|||1727409393839|WsauthenticateStub generateKey  antes  OracleSOAPHTTPConnection  p_subscriber 1990346352 p_mail OVAM@MOVILNET.COM.VE p_application_name autog code|||||||
+2024-09-26 11:56:34,381|INFO|||1727409393839|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:56:43,291|INFO|||1727409403291|WsauthenticateStub generateKey  antes  OracleSOAPHTTPConnection  p_subscriber 1583102605 p_mail OVAM@MOVILNET.COM.VE p_application_name autog code|||||||
+2024-09-26 11:56:43,814|INFO|||1727409403291|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:57:32,499|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:57:32,500|INFO|||1727409452499|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1998575571|||||||
+2024-09-26 11:57:33,051|INFO|||1727409453051|WsauthenticateStub generateKey  antes  OracleSOAPHTTPConnection  p_subscriber 1992889655 p_mail OVAM@MOVILNET.COM.VE p_application_name autog code|||||||
+2024-09-26 11:57:33,229|INFO||||AGL-127.0.0.1-1998575571-1727409453228|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6431bcc6}|null|1727409453229|ex|||||||
+2024-09-26 11:57:33,229|INFO|||1727409453228|procesarTransaccionBuscarTelefono : 1998575571-AGL-127.0.0.1-1998575571-1727409453228|||||||
+2024-09-26 11:57:33,234|INFO|||A-1727409453228-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4268575571|||||||
+2024-09-26 11:57:33,576|INFO|||1727409453051|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:57:34,256|INFO|||A-1727409453228-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5017d99f|||||||
+2024-09-26 11:57:34,256|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:57:34,264|INFO|||1727409453228-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4268575571|||||||
+2024-09-26 11:57:34,265|INFO|||1727409453228-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:57:34,265|INFO|||1727409453228-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4268575571|||||||
+2024-09-26 11:57:34,265|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1998575571-1727409453228|||||||
+2024-09-26 11:57:34,270|INFO|||AGL-127.0.0.1-1998575571-1727409453228-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:57:34,773|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1998575571-1727409453228Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@1d60325b|||||||
+2024-09-26 11:57:34,774|INFO||||AGL-127.0.0.1-1998575571-1727409453228|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6431bcc6}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@145c57f0}|1544|ex|||||||
+2024-09-26 11:57:39,657|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:57:39,657|INFO|||1727409459656|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1990346352|||||||
+2024-09-26 11:57:39,682|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:57:39,696|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:57:41,782|INFO|||[Ljava.lang.String;@1e0b33f9|||||||
+2024-09-26 11:57:41,782|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTPLA21GB|||||||
+2024-09-26 11:57:41,818|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:36|||||||
+2024-09-26 11:57:49,175|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:57:49,175|INFO|||1727409469175|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1583102605|||||||
+2024-09-26 11:57:49,967|INFO||||AGL-127.0.0.1-1583102605-1727409469966|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6b1f5436}|null|1727409469967|ex|||||||
+2024-09-26 11:57:49,967|INFO|||1727409469966|procesarTransaccionBuscarTelefono : 1583102605-AGL-127.0.0.1-1583102605-1727409469966|||||||
+2024-09-26 11:57:49,968|INFO|||A-1727409469966-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4163102605|||||||
+2024-09-26 11:57:50,923|INFO|||A-1727409469966-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@5912aee4|||||||
+2024-09-26 11:57:50,924|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:57:50,932|INFO|||1727409469966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4163102605|||||||
+2024-09-26 11:57:50,932|INFO|||1727409469966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:57:50,932|INFO|||1727409469966-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4163102605|||||||
+2024-09-26 11:57:50,932|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1583102605-1727409469966|||||||
+2024-09-26 11:57:50,938|INFO|||AGL-127.0.0.1-1583102605-1727409469966-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:57:51,455|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1583102605-1727409469966Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@3ade16|||||||
+2024-09-26 11:57:51,456|INFO||||AGL-127.0.0.1-1583102605-1727409469966|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@6b1f5436}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@1232b8b7}|1489|ex|||||||
+2024-09-26 11:57:59,089|INFO|||[Ljava.lang.String;@2c6f6028|||||||
+2024-09-26 11:57:59,089|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTPLAN10|||||||
+2024-09-26 11:57:59,098|INFO|||[Ljava.lang.String;@4b50350f|||||||
+2024-09-26 11:57:59,098|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTPLAN10|||||||
+2024-09-26 11:57:59,119|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:30|||||||
+2024-09-26 11:57:59,123|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:24|||||||
+2024-09-26 11:58:07,282|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:58:07,282|INFO|||1727409487282|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1581710150|||||||
+2024-09-26 11:58:07,931|INFO||||AGL-127.0.0.1-1581710150-1727409487930|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@2e10eee4}|null|1727409487930|ex|||||||
+2024-09-26 11:58:07,931|INFO|||1727409487930|procesarTransaccionBuscarTelefono : 1581710150-AGL-127.0.0.1-1581710150-1727409487930|||||||
+2024-09-26 11:58:07,932|INFO|||A-1727409487930-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4161710150|||||||
+2024-09-26 11:58:08,730|INFO|||A-1727409487930-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@12fc67a0|||||||
+2024-09-26 11:58:08,730|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:58:08,756|INFO|||1727409487930-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4161710150|||||||
+2024-09-26 11:58:08,756|INFO|||1727409487930-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM01|||||||
+2024-09-26 11:58:08,756|INFO|||1727409487930-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4161710150|||||||
+2024-09-26 11:58:08,756|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1581710150-1727409487930|||||||
+2024-09-26 11:58:08,757|INFO|||AGL-127.0.0.1-1581710150-1727409487930-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:58:09,302|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1581710150-1727409487930Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@370f56cc|||||||
+2024-09-26 11:58:09,303|INFO||||AGL-127.0.0.1-1581710150-1727409487930|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@2e10eee4}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@7c0743b3}|1373|ex|||||||
+2024-09-26 11:58:21,832|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:58:21,832|INFO|||1727409501832|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1990346352|||||||
+2024-09-26 11:58:21,858|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:58:21,859|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:58:30,876|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:58:30,877|INFO|||1727409510876|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1583606457|||||||
+2024-09-26 11:58:43,736|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:58:43,740|INFO|||1727409523736|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1992889655|||||||
+2024-09-26 11:58:44,266|INFO||||AGL-127.0.0.1-1992889655-1727409524266|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@3471f335}|null|1727409524266|ex|||||||
+2024-09-26 11:58:44,266|INFO|||1727409524266|procesarTransaccionBuscarTelefono : 1992889655-AGL-127.0.0.1-1992889655-1727409524266|||||||
+2024-09-26 11:58:44,266|INFO|||A-1727409524266-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4262889655|||||||
+2024-09-26 11:58:45,416|INFO|||A-1727409524266-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@7af20781|||||||
+2024-09-26 11:58:45,416|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:58:45,423|INFO|||1727409524266-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4262889655|||||||
+2024-09-26 11:58:45,424|INFO|||1727409524266-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:58:45,424|INFO|||1727409524266-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4262889655|||||||
+2024-09-26 11:58:45,424|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1992889655-1727409524266|||||||
+2024-09-26 11:58:45,424|INFO|||AGL-127.0.0.1-1992889655-1727409524266-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:58:46,012|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1992889655-1727409524266Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@4d5f58ff|||||||
+2024-09-26 11:58:46,013|INFO||||AGL-127.0.0.1-1992889655-1727409524266|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@3471f335}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@1ac1cc91}|1747|ex|||||||
+2024-09-26 11:58:48,229|INFO|||[Ljava.lang.String;@15036824|||||||
+2024-09-26 11:58:48,229|INFO|||DataRepository.buscarTodosCp() PlanOfertaResponse  PLAN CT_S_T_A_INTDAT36_V|||||||
+2024-09-26 11:58:48,251|INFO|||DataRepository.SYM_view_planesa vp where vp.cos_plan_name|RA2010-1|tiempoEjecucion:22|||||||
+2024-09-26 11:58:54,165|INFO|||1727409534165|WsauthenticateStub generateKey  antes  OracleSOAPHTTPConnection  p_subscriber 1994815256 p_mail OVAM@MOVILNET.COM.VE p_application_name autog code|||||||
+2024-09-26 11:58:54,684|INFO|||1727409534165|Perform| superado el Response luego del invoke|||||||
+2024-09-26 11:59:18,258|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:59:18,259|INFO|||1727409558258|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1990346352|||||||
+2024-09-26 11:59:18,285|WARN|||fallo UserDetailsServiceImpl loadUserByUsername  authenticateFullDigit codigo RA5008|||||||
+2024-09-26 11:59:18,291|ERROR|||AuthEntryPointJwt  commence: UserDetailsService returned null, which is an interface contract violation|||||||
+2024-09-26 11:59:38,950|ERROR|||JWT token is expired: JWT expired at 2024-09-15T12:12:08Z. Current time: 2024-09-26T23:59:38Z, a difference of 992850950 milliseconds.  Allowed clock skew: 0 milliseconds.|||||||
+2024-09-26 11:59:43,944|INFO|||UserDetailsServiceImpl.loadUserByUsername |||||||
+2024-09-26 11:59:43,945|INFO|||1727409583944|WsauthenticateStub authenticateFullDigit  antes de OracleSOAPHTTPConnection  p_subscriber 1994815256|||||||
+2024-09-26 11:59:45,194|INFO||||AGL-127.0.0.1-1994815256-1727409585193|AR-XXX|AR-XXX|WS|PerfilClienteController|Api-Autogestion|AR-XXX|show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@2e221ac5}|null|1727409585194|ex|||||||
+2024-09-26 11:59:45,194|INFO|||1727409585193|procesarTransaccionBuscarTelefono : 1994815256-AGL-127.0.0.1-1994815256-1727409585193|||||||
+2024-09-26 11:59:45,194|INFO|||A-1727409585193-Luego ClientProfileValidationDao.BuscarTelefono numero importante!!!:4264815256|||||||
+2024-09-26 11:59:46,198|INFO|||A-1727409585193-ClientProfileValidationDao.BuscarTelefono listo  responseElement.response():  ve.com.movilnet.rtb.procesosnegocio.bp.ClienteTo@70443c1c|||||||
+2024-09-26 11:59:46,199|INFO|||ScheduledDataUpdater.updateData Se esta ejecutando |||||||
+2024-09-26 11:59:46,208|INFO|||1727409585193-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setString2 importante!!!4264815256|||||||
+2024-09-26 11:59:46,208|INFO|||1727409585193-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.entradaSD: valor para setNodo GSM02|||||||
+2024-09-26 11:59:46,209|INFO|||1727409585193-PerfilClienteController.buscarTelefono ir EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService: valor suscriptor importante!!! 4264815256|||||||
+2024-09-26 11:59:46,209|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1994815256-1727409585193|||||||
+2024-09-26 11:59:46,209|INFO|||AGL-127.0.0.1-1994815256-1727409585193-EjecutarConsultaSaldoGsmDao.obtenerSaldo()|||||||
+2024-09-26 11:59:46,629|INFO|||EjecutarConsultarSaldoPrepagoServiceFacade.consultarSaldoGsmService()AGL-127.0.0.1-1994815256-1727409585193Fin EjecutarConsultaSaldoGsmDao STATUS_EXITO_PREPAGO  listSaldo  ve.com.movilnet.rtb.procesosnegocio.factory.SolicitarSaldoResponseElement@63a83140|||||||
+2024-09-26 11:59:46,638|INFO||||AGL-127.0.0.1-1994815256-1727409585193|AR-XXX|RA2004-1|WS|PerfilClienteController|Api-Autogestion|AR-XXX|Salida_show|{In:=ve.com.movilnet.api.perfilcliente.PerfilRequest@2e221ac5}|{Out:=ve.com.movilnet.api.perfilcliente.PerfilResponse@3822d61f}|1444|ex|||||||
