@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.8.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>ve.com.movilnet</groupId>
+    <artifactId>api</artifactId>
+    <version>movilnet</version>
+    <packaging>war</packaging>
+    <name>api</name>
+    <description>movilnet</description>
+ 
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <dependencies>
+      
+   
+
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>2.7.0</version>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>2.7.0</version>
+        </dependency>
+        
+        
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+              <exclusions>
+            <exclusion>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-logging</artifactId>
+            </exclusion>
+        </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    <dependency>
+            <groupId>ve.com.movilnet.archive1</groupId>
+            <artifactId>archive1-1.2-SNAPSHOT</artifactId>
+            <version>0.1-SNAPSHOT</version>
+            <type>jar</type>
+        </dependency>
+       
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+   
+        <!-- comienzo de corregir algunos errores para los ws soap de movilnet  -->
+        <dependency>
+            <groupId>org.soap</groupId>
+            <artifactId>soap.jar</artifactId>
+            <version>1.0</version>
+        </dependency>  
+      
+        <dependency>
+            <groupId>org.apache.httpclient</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>3.0-alpha1</version>
+        </dependency>
+
+
+    
+        <!-- fin  de corregir algunos errores para los ws soap de movilnet  -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>4.3.1.Final</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>pdfbox</artifactId>
+            <version>2.0.27</version>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.mail</groupId>
+            <artifactId>mail</artifactId>
+            <version>1.4</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.rpc</groupId>
+            <artifactId>jaxrpc-impl</artifactId>
+            <version>1.1.3_01</version>
+        </dependency>
+ 
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.6.2</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
+       
+        <dependency>
+            <groupId>ve.com.movilnet.rtb14</groupId>
+            <artifactId>commons-rtb14</artifactId>
+            <version>0.1-SNAPSHOT</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>ve.com.movilnet.rtbproxybases</groupId>
+            <artifactId>commons-rtbproxybases</artifactId>
+            <version>0.1-SNAPSHOT</version>
+            <type>jar</type>
+        </dependency>
+      
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>6.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jsmpp</groupId>
+            <artifactId>jsmpp</artifactId>
+            <version>2.3.5</version>
+        </dependency>
+      
+      
+     
+      
+     
+
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+    
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+      
+        <!-- Solo para movilnet -->
+        
+        <dependency>
+            <groupId>ve.com.movilnet.ws_authenticate</groupId>
+            <artifactId>ws_authenticate_aute</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+       
+     
+   
+              
+     <dependency>
+            <groupId>ve.com.movilnet.rtb</groupId>
+            <artifactId>apiBTproxy</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+          
+    
+        <dependency>
+            <groupId>ve.com.movilnet.commons2</groupId>
+            <artifactId>commons-movilnet2</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency> 
+   
+            <dependency>
+            <groupId>ve.com.movilnet.rtb</groupId>
+            <artifactId>rbt_new-1.1.0</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency> 
+        
+         <dependency>
+            <groupId>ve.com.movilnet.rtb</groupId>
+            <artifactId>apiCPprocy-1.0.0</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency> 
+           <dependency>
+            <groupId>ve.com.movilnet.rtb</groupId>
+            <artifactId>apiActualizaDatos-1.0.0</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency> 
+        
+        
+        <dependency>
+            <groupId>ve.com.movilnet.encriptador</groupId>
+            <artifactId>encriptador</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        
+       
+        
+        <dependency>
+            <groupId>ve.com.movilnet.ws</groupId>
+            <artifactId>ws_authenticate</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.15</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>javax.mail</groupId>
+                    <artifactId>mail</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>javax.jms</groupId>
+                    <artifactId>jms</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>com.sun.jdmk</groupId>
+                    <artifactId>jmxtools</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>com.sun.jmx</groupId>
+                    <artifactId>jmxri</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>org.springframework</groupId>
+                    <artifactId>spring-web</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+    <groupId>com.auth0</groupId>
+    <artifactId>java-jwt</artifactId>
+    <version>4.4.0</version>
+</dependency>
+        <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-cache</artifactId>
+    <version>2.4.0</version>
+</dependency>
+
+<dependency>
+    <groupId>com.oracle.database.jdbc</groupId>
+    <artifactId>ojdbc8</artifactId>
+    <version>19.8.0.0</version>
+</dependency>
+
+
+
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+    <repositories>
+        <repository>
+            <id>AsposeJavaAPI</id>
+            <name>Aspose Java API</name>
+            <url>https://repository.aspose.com/repo/</url>
+        </repository>
+        <repository>
+            <id>unknown-jars-temp-repo</id>
+            <name>A temporary repository created by NetBeans for libraries and jars it could not identify. Please replace the dependencies in this repository with correct ones and delete this repository.</name>
+            <url>file:${project.basedir}/lib</url>
+        </repository>
+        
+    </repositories>
+</project>
